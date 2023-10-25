@@ -11,5 +11,6 @@ public class Main {
 
         String num = sc.nextLine();
         new FizzBuzz(num);
+
     }
 }
